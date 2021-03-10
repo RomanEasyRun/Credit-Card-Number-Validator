@@ -8,7 +8,7 @@
 
 Выявлены следующие дефекты:
 
-[При указании карты VISA выходит сообщении об ошибке](https://github.com/RomanEasyRun/Credit-Card-Number-Validator/issues/1)
+- [При указании карты VISA выходит сообщении об ошибке](https://github.com/RomanEasyRun/Credit-Card-Number-Validator/issues/1)
 
 Описание процесса тестирования
 
